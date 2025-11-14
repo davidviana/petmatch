@@ -5,7 +5,7 @@ Sistema de adoção de pets desenvolvido com Spring Boot | Java 21 | React.js
 ## 🚀 Tecnologias
 - **Java 21 LTS** (versão mais recente)
 - **React.js**
-- Spring Boot 3.5.4
+- Spring Boot 3.5.7
 - Spring Web
 - Spring Data JPA
 - H2 Database
@@ -35,4 +35,4 @@ Sistema de adoção de pets desenvolvido com Spring Boot | Java 21 | React.js
 
 ## 👨‍💻 Desenvolvedor
 David Viana - Engenharia de Software USTJ  
-Desenvolvido com JDK 21 e Spring Boot 3.5.4
+Desenvolvido com JDK 21 e Spring Boot 3.5.7
